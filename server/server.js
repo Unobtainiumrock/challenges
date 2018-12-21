@@ -49,7 +49,7 @@ wss.on('connection', function (ws) {
             name: createRandomName()
           }));
         }
-      }, (90));
+      }, (1000));
     }
   });
 

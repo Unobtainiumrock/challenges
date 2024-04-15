@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # WIP!! 
+(WIP, overhauling all repositories)
 Need to implement doubly linked list with hash, so I can efficiently insert new incoming socket messages. All of the high-level overview is laid out and ready to go. Table is workin
 
 ## Available Scripts
